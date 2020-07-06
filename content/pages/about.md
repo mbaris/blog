@@ -4,7 +4,7 @@ template: "page"
 socialImage: ""
 ---
 
-Hi, i am Mehmet Barış Kalkar, a computer engineer based in Ankara, Turkey. I work as a software developer at [OpsGenie](https://opsgenie.com).
+Hi, I am Mehmet Barış Kalkar, a computer engineer based in Ankara, Turkey. I work as a software developer at [Atlassian OpsGenie](https://opsgenie.com).
 
 I am interested in procedural generation, devops, scalable and efficient software development.
 
