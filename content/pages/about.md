@@ -4,10 +4,9 @@ template: "page"
 socialImage: ""
 ---
 
-Hi, I am Mehmet Barış Kalkar, a computer engineer based in Ankara, Turkey. I work as a software developer at [Atlassian OpsGenie](https://opsgenie.com).
+Hi, I am Mehmet Barış Kalkar, a computer engineer located in Berlin, Germany. 
+Currently, I started working as a software engineer at [Klarna.](https://www.klarna.com/) recently. Previosly I have worked at [Atlassian OpsGenie](https://opsgenie.com) for around 4 years. I am interested in learning more about DevOps, modern web applications, and scalable and efficient software development best practices.
 
-I am interested in procedural generation, devops, scalable and efficient software development.
+I also like reading fantasy novels, playing video games, snowboarding, running in my free time.
 
-I also like reading fantasy novels, running and cooking in my free time.
-
-This blog will serve as a place to share what i am learning and a platform to try new technologies like react, gatsby, github-pages, cloudflare etc.
+This blog will serve as a place to share what I am learning and a platform to try new technologies like react, gatsby, github-pages, cloudflare etc.
