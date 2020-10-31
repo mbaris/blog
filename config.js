@@ -4,7 +4,7 @@ module.exports = {
   url: 'https:/baris.io',
   pathPrefix: '/',
   title: 'baris.io',
-  subtitle: 'Software Developer At Opsgenie',
+  subtitle: 'Software Engineer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Mehmet Barış Kalkar',
     photo: '/photo.jpg',
-    bio: 'Software Engineer at Opsgenie',
+    bio: 'Software Engineer at Klarna.',
     contacts: {
       email: '',
       facebook: '',
